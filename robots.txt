@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# The HTML pages carry noindex until publication is authorised.
